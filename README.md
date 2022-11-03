@@ -1,2 +1,2 @@
 # salesforce-dev-logs
-Exercise log from Salesforce developer and admin studies ----Enjoy!
+Exercise logss from <em>`Salesforce`</em> developer and admin studies ----Enjoy!
