@@ -1,5 +1,5 @@
 # salesforce-dev-logs
-Exercise logss from <em>`Salesforce`</em> developer and admin studies ----Enjoy!
+Exercise logss from my <em>`Salesforce`</em> Admin, Developer, Platform App Builder studies and projects----Enjoy!
 
 
 - [*Salesforce* Administrator](#salesforce-administrator) 
