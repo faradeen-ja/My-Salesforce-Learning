@@ -19,7 +19,6 @@ Exercise logss from my <em>`Salesforce`</em> Admin, Developer, Platform App Buil
 
 
 
-
 - [*Salesforce* Administrator](#salesforce-administrator) 
 - [*Platform App Builder*](#platform-app-builder)
 - [*Platform Developer I*](#platform-developer-i)
