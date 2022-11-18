@@ -1,6 +1,6 @@
-## Authorize dev hub
-## Open Org 
-## Deploy Org
+## 1️⃣Authorize dev hub
+## 2️⃣Open Org 
+## 3️⃣Deploy Org
 
 
 
