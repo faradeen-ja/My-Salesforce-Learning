@@ -1,5 +1,5 @@
 # salesforce-dev-logs
-Exercise logss from my <em>`Salesforce`</em> Admin, Developer, Platform App Builder studies and projects----Enjoy!
+Exercise logss from my <em>`Salesforce`</em> Admin, Developer, JavaScript Developer 1, Platform App Builder studies and projects----Enjoy!
 
 
 
