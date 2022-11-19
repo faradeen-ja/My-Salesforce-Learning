@@ -1,3 +1,6 @@
+
+**if you landed here by accident and learning `SalesForce` LWC You can clone or download this repo containing all practices and useful notes helps with your lightning web component roadmap**
+
 ## 1️⃣Authorize dev hub
 ## 2️⃣Open Org 
 ## 3️⃣Deploy Org
