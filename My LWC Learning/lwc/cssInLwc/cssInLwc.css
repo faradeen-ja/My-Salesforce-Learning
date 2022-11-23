@@ -1,0 +1,17 @@
+p{
+    color: rgb(7, 107, 200);
+    font-weight: bold;
+    border: solid 1px gold;
+}
+
+.what{
+    color: blueviolet !important;
+    border: solid 1px white;
+
+}
+
+.what:hover{
+    font-size: 40px;
+    font-weight: bold;
+    color: orange;
+}

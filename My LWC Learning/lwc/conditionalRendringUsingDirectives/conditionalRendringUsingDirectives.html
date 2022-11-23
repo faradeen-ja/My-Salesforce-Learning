@@ -1,0 +1,35 @@
+<template>
+    <lightning-card title="Conditionla Rendering with Directives">
+        <div class="slds-var-m-around_medium">
+            <div>
+                <lightning-button 
+                    variant="brand" 
+                    label="Get Started" 
+                    stretch="true" 
+                    onclick={handleClick} class="slds-var-m-left_x-small"> 
+                </lightning-button>
+<!--for if:ture directive-->
+                <template if:true={isVisible}>              
+                      <div>Welcome to directives</div>
+                </template>
+
+
+<!--for if:false directive-->               
+                 <template if:false={isVisible}>
+                    <h3>You can't see the data on <code>if:false</code></h3>
+                </template>
+
+                <lightning-input type="text" label="input skills to see hello data" onkeyup={changeHandler}></lightning-input>
+                <template if:true={tags}>
+                    <h3><a href="https://google.com" target="_blank">hello is linked and can be clicked to see linked data in the page</a></h3>
+                    <lightning-icon icon-name="action:preview" alternative-text="Preview" title="Search hello"></lightning-icon>
+
+                </template>
+
+                
+
+
+            </div>
+        </div>
+    </lightning-card>
+</template>
