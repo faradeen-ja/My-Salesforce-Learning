@@ -12,7 +12,7 @@ export default class C2pModalComponent extends LightningElement {
         this.dispatchEvent(myEvent)                                 //➡️ now i want to dispatch the event to execute it
 
 
-        //now that we created a custom event who will listen to this event??
+        //now that we have created a custom event who will listen to this event??
         //we will go to c2pParentComponent and inject it into child component tags
 
         //<template if:true={showModal}>
