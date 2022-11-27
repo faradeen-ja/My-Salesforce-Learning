@@ -8,7 +8,7 @@ export default class C2pModalComponent extends LightningElement {
             bubbles: true
             
 
-        })                                                         // my custom event is created now.... what
+        })                                                         // my custom event is created now.... what??????
         this.dispatchEvent(myEvent)                                 // now i want to dispatch the event execute it
 
 
