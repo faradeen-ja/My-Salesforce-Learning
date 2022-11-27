@@ -27,6 +27,6 @@ export default class C2pModalComponent extends LightningElement {
 
 
     footerEventHandle(){
-        console.log('footer event called')    // event bubbling  child looks for above element > parent >> and more
+        console.log('footer event called')    //💫🤹🏽‍♀️event bubbling  child looks for above element > parent >> and more
     }
 }
