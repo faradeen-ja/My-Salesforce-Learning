@@ -2,7 +2,7 @@ import { LightningElement } from 'lwc';
 
 export default class C2pParentComponent extends LightningElement {
 
-    showModal = false                 //by default the modal will not be visible for now
+    showModal = false                 //❌by default the modal will not be visible for now
     msg
 
 
