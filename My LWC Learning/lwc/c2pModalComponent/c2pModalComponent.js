@@ -16,8 +16,8 @@ export default class C2pModalComponent extends LightningElement {
         //we will go to c2pParentComponent and inject it into child component tags
 
         //<template if:true={showModal}>
-        //<c-c2p-modal-component        <-----------------here
-        //onclose={closeHandler}       <--------here  
+        //<c-c2p-modal-component        <⬅️-----------------here
+        //onclose={closeHandler}       <⬅️--------here  
         //></c-c2p-modal-component>
 
     //</template>
