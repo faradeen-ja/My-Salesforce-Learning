@@ -7,7 +7,7 @@ export default class C2pParentComponent extends LightningElement {
 
 
     modalHandler(){
-        this.showModal = true             // by clicking on the btn it will go visible   parent to child action
+        this.showModal = true             // 🔳 by clicking on the btn it will go visible  ✅ parent to child action
     }
 
     closeHandler(event){       
