@@ -8,7 +8,7 @@ export default class ConditionalRendringUsingDirectives extends LightningElement
     searchTags 
 
     handleClick(){
-        this.isVisible = true/// conditional load 
+        this.isVisible = true/// ⚡conditional load 
       
     }
 
