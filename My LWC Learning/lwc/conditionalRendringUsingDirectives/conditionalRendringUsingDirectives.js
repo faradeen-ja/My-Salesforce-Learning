@@ -36,7 +36,7 @@ export default class ConditionalRendringUsingDirectives extends LightningElement
 
 
     //falsy values
-   // x = 0, false, undefined, null   anytime you use falsy values  if these exist in your html markup properties it always be false evev if you set markup to true if:true{expression} = false
+   // x = 0, false, undefined, null   ➡️anytime you use falsy values  if these exist in your html markup properties it always be false evev if you set markup to true if:true{expression} = false
     
 
 } // main class closing bracket
