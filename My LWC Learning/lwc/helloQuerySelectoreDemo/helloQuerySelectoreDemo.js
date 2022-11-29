@@ -2,7 +2,7 @@ import { LightningElement } from 'lwc';
 
 export default class HelloQuerySelectoreDemo extends LightningElement {
 
-    // querySelector ALL
+    // 🤹🏽‍♀️querySelector ALL
     // property of user names
     userNames =['jojo', 'mikiy', 'nana', 'john', 'user']
 
@@ -12,13 +12,13 @@ export default class HelloQuerySelectoreDemo extends LightningElement {
 
 
     fetchDetailHandle(){
-        //for button selector H1 tag
+        //➡️for button selector H1 tag
         const element = this.template.querySelector('h1')
         element.style.border = '1px solid red'
         console.log(element.innerText)
 
 
-        //for userNames
+        //🧟‍♂️for userNames
         const userElements = this.template.querySelectorAll('.name')
         //for userNames
         Array.from(userElements).forEach(item => { // we use Array.from because userElements is not an array it's a node of elements
