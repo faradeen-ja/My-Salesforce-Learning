@@ -3,12 +3,12 @@ import { LightningElement } from 'lwc';
 
 export default class ConditionalRendringUsingDirectives extends LightningElement {
 
-    isVisible = false // on load
+    isVisible = false // 🔁on load
     name // we will leave undeclared 
     searchTags 
 
     handleClick(){
-        this.isVisible = true///conditional load 
+        this.isVisible = true/// conditional load 
       
     }
 
