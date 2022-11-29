@@ -23,7 +23,7 @@ export default class HelloQuerySelectoreDemo extends LightningElement {
         //for userNames
         Array.from(userElements).forEach(item => { // we use Array.from because userElements is not an array it's a node of elements
             console.log(item.innerText)
-            //adding style attributes dynamically  
+            //✅adding style attributes dynamically  
             item.setAttribute('title', item.innerText)
         })
 
