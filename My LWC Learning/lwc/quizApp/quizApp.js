@@ -3,8 +3,8 @@ import { LightningElement } from 'lwc';
 export default class QuizApp extends LightningElement {
 
 
-    selected={}  // for storing answers
-    correctAnswers = 0 // to show the number of correct answers   = 0
+    selected={}  //➡️ for storing answers
+    correctAnswers = 0 //✅⁉️ to show the number of correct answers   = 0
     isSubmitted = false// use to show the result
 
     myQuestions =[
