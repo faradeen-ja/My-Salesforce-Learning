@@ -11,7 +11,7 @@ export default class P2cSliderComponent extends LightningElement {
     }
 
 
-// to expose to parent  --> api to make js of the parent 
+//↘️ to expose to parent  --> api to make js of the parent 
 //this method should publically be exposed to be accessed from parent component using @api
     @api resetSlider(){
         this.val = 50
