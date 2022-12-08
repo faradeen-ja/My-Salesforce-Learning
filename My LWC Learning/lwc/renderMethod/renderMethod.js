@@ -1,5 +1,5 @@
 import { LightningElement } from 'lwc';
-//refferece 
+//✴️reference  
 import signinTemplate from './signinTemplate.html'
 import signupTemplate from './signupTemplate.html'
 import renderTemplate from './renderMethod.html'
