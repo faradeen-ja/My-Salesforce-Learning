@@ -1,7 +1,7 @@
 import { LightningElement } from 'lwc';
 
 export default class TemplateLooping extends LightningElement {
-//looping temps only works with arrays in LWC
+//✴️looping temps only works with arrays in LWC
 carList = ['Ford', 'Audi', 'Toyota', 'Ferrari']
 
 
