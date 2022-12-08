@@ -6,7 +6,7 @@ carList = ['Ford', 'Audi', 'Toyota', 'Ferrari']
 
 
 
-//array of object
+//✏️💈🔨array of object
 ceoList = [
     {
         id:1,
