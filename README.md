@@ -21,7 +21,7 @@ Exercise logss from my <em>`Salesforce`</em> Admin, Developer, JavaScript Develo
 
 
 
-- [*Salesforce* Administrator](#salesforce-administrator) 
-- [*Platform App Builder*](#platform-app-builder)
-- [*JavaScript Developer I*](#javascript-developer-i)
+- ✅[*Salesforce* Administrator](#salesforce-administrator) 
+- ✅[*Platform App Builder*](#platform-app-builder)
+- ✅[*JavaScript Developer I*](#javascript-developer-i)
 
