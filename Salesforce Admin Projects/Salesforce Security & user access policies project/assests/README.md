@@ -4,21 +4,3 @@
 
 
 
-## Business Administration Specialist
-#### What You'll Be Doing to Earn This Superbadge
-
-1. Clean and import account data
-2. reate users and manage access
-3. Create email templates for new marketing needs
-4. Configure UI tools for a new product type
-5. Create reports and dashboards
-6. Manage and apply Chatter tools
-
-
-## Concepts Tested in This Superbadge
-+ Data import
-+ User permissions and management
-+ Email templates
-+ UI configuration
-+ Reports and dashboards in Lightning Experience
-+ Chatter features
