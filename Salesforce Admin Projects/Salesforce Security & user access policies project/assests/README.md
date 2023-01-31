@@ -4,3 +4,15 @@
 
 
 
+
+## What You'll Be Doing to Earn This Superbadge
+
+1. Identify the appropriate user authentication settings.
+2. Describe various multi-factor authentication and single sign-on configurations.
+3. Explain ways to troubleshoot user authentication issues.
+
+#### Concepts Tested in This Superbadge
++ User Authentication
+
+
+
