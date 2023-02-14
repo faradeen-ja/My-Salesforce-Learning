@@ -1,9 +1,9 @@
 # salesforce-dev-logs
 Exercise logss from my <em>`Salesforce`</em> Admin, Developer, JavaScript Developer 1, Platform App Builder studies and projects----Enjoy!
 
-[![Admin](https://img.shields.io/badge/View-Linkedin-blue)](https://linkedin.com/in/faradeen "View LinkedIn")
+[![Admin](https://img.shields.io/badge/Admin-Certified-blue)](https://linkedin.com/in/faradeen "View LinkedIn")
 
-[![AppBuilder](https://img.shields.io/badge/View-Linkedin-blue)](https://linkedin.com/in/faradeen "View LinkedIn")
+[![AppBuilder](https://img.shields.io/badge/AppBuilder-Certified-blue)](https://linkedin.com/in/faradeen "View LinkedIn")
 
 [![JavaScript1](https://img.shields.io/badge/View-Linkedin-blue)](https://linkedin.com/in/faradeen "View LinkedIn")
 
