@@ -3,7 +3,7 @@ Exercise logss from my <em>`Salesforce`</em> Admin, Developer, JavaScript Develo
 
 <div align="center">
 
-[![Admin](https://img.shields.io/badge/Admin-Certified-blue)](https://linkedin.com/in/faradeen "View LinkedIn")
+[![Admin](https://img.shields.io/badge/Admin-Certified-blue)](#salesforce-administrator) 
 
 [![AppBuilder](https://img.shields.io/badge/AppBuilder-Certified-lime)](https://linkedin.com/in/faradeen "View LinkedIn")
 
